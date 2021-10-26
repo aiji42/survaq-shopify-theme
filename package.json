@@ -1,0 +1,9 @@
+{
+  "name": "survaq-shopify-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@shopify/themekit": "^1.1.9"
+  }
+}
